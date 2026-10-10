@@ -26,7 +26,7 @@ from aiogram.types import (CallbackQuery, InputMediaPhoto, KeyboardButton,
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 import os
 
-BOT_TOKEN = "8350987756:AAFOms_5ccVJJ873nK7FUwS8xpEyjq5DLkk"
+BOT_TOKEN = "8614443241:AAEHiK5AlQST3LAgyW0iuXwL6OfbDjmwOwQ"
 ADMIN_ID = 6996333181          # BOSH ADMIN
 CHANNEL_ID = "@reflex_top"
 
